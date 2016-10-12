@@ -9,7 +9,7 @@
 		<!-- Add CSS file -->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 
-		<title>Repository 3: About Me</title>
+		<title>Repository 3: About Me (PWP beta)</title>
 
 	</head>
 
