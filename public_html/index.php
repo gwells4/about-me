@@ -28,8 +28,7 @@
 
 				<h2>Persona</h2>
 
-				<img id="picture-male-hipster" src="img/male-hipster.jpg" alt="Picture of Male Hipster for Persona">
-				<img id="picture-female-hipster" src="img/female-hipster-annotated.jpg" alt="Picture of Female Hipster for Persona">
+				<img id="picture-workplace-group" src="img/workplace-group.jpg" alt="Picture of a Group of People in the Workplace">
 
 				<ol>
 					<li>
