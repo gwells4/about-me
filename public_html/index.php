@@ -23,6 +23,15 @@
 		<!-- This is the main page content. -->
 		<main>
 
+			<!-- Section 1: Purpose -->
+			<section>
+
+				<h2>Purpose</h2>
+
+				<p>The purpose of this site is to serve as a contact point for my professional peers, as well as a means for potential clients and customers to learn more about my skills.</p>
+
+			</section>
+
 			<!-- Section 1: Persona -->
 			<section>
 
