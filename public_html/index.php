@@ -53,9 +53,6 @@
 			<!-- Section 4: Persona -->
 			<section>
 
-			<!-- Section 1: Persona -->
-			<section>
-
 				<h2>Persona</h2>
 
 				<img id="picture-workplace-group" src="img/workplace-group.jpg" alt="Picture of a Group of People in the Workplace">
