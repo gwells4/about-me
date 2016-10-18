@@ -64,7 +64,11 @@
 					</li>
 					<li>
 						<b>Description</b><br>
-						<u>Professional:</u> A person in a workplace that needs help with a website, either from a full-time employee or through a freelance contract.
+						<u>Professional:</u> A person in a workplace that needs help with a website.<br>
+						Names: Ben Hadden, Jacqueline Camber, Alferd Zanna, Lyn Peverell, & Josie Smith
+						Age: 20 - 30.<br>
+						Role: Marketing, Sales, or Public Relations.<br>
+						They may be looking for either a full-time employee or freelancer.
 					</li>
 					<li>
 						<b>Needs</b><br>
