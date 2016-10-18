@@ -33,7 +33,7 @@
 				<ol>
 					<li>
 						<b>Quote</b><br>
-						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> _ Jesse Schell<br>
+						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> _&nbsp;Jesse&nbsp;Schell<br>
 					</li>
 					<li>
 						<b>Description</b><br>
@@ -44,7 +44,7 @@
 						<ul>
 							<li>The website may be in need of an update or a complete overhaul.</li>
 							<li>Additionally, it may have not been written to support mobile devices, and so it needs that capability added to it.</li>
-							<li>The company has changed what they want to communicate via their website, so they need to update teh site accordingly.</li>
+							<li>The company has changed what they want to communicate via their website, so they need to update the site accordingly.</li>
 							<li>There is a desire to shift from customer payment via PayPal to Stripe.</li>
 						</ul>
 					</li>
@@ -60,8 +60,8 @@
 						<b>Scenarios</b><br>
 						<ol>
 							<li>They want to expand their market to Africa, and so they want to be compatible with facebook's free basics platform.</li>
-							<li></li>
-							<li></li>
+							<li>Customers don't want to use PayPal, anymore. They would like to use teir credit cards, directly.</li>
+							<li>Many of their customers are now accessing them through mobile devices, and they want their sites to be responsive to mobile devices.</li>
 						</ol>
 					</li>
 				</ol>
