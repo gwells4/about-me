@@ -4,7 +4,7 @@ h1 {
 
 	/* -webkit-marquee: auto medium infinite alternate normal; */
 
-	marquee-direction: left;
+	marquee-direction: forward;
 	marquee-play-count: infinite;
 	marquee-speed: normal;
 	marquee-style: alternate;
