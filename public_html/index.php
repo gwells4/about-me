@@ -33,19 +33,27 @@
 				<ol>
 					<li>
 						<b>Quote</b><br>
-						<i>"I can't believe I drank my coffee before it was cool."</i>
+						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> _ Jesse Schell<br>
 					</li>
 					<li>
 						<b>Description</b><br>
-						<u>Hipster:</u> A person considered by themselves (and others) to be at the forefront of what's "hip". They may be either male, female, or other. The hip forefront generally includes fashion, and it may also include food &amp; drink, music, art, and travel destinations. One's neighborhood is also very important, as the hipster considers there to be a clear line between fashionable and unfashionable neighborhoods. (See: <a href="https://en.wikipedia.org/wiki/The_Hipster_Handbook"><i>The Hipster Handbook</i></a> for more details.)
+						<u>Professional:</u> A person in a workplace that needs help with a website, either from a full-time employee or through a freelance contract.
 					</li>
 					<li>
-						<b>Needs</b> (of the User from the Site)<br>
-						The hipster needs the most up-to-date information to pick the most hip event to attend. Enough detail needs to be included to judge the hipness, so posters of events should be able to enter an adequate description and location, as well as the date &amp; time information.
+						<b>Needs</b><br>
+						<ul>
+							<li>The website may be in need of an update or a complete overhaul.</li>
+							<li>Additionally, it may have not been written to support mobile devices, and so it needs that capability added to it.</li>
+							<li>The company has changed what they want to communicate via their website, so they need to update teh site accordingly.</li>
+							<li>There is a desire to shift from customer payment via PayPal to Stripe.</li>
+						</ul>
 					</li>
 					<li>
 						<b>Frustrations</b><br>
-						The hipsters number one frustration is not having enough information to judge the hipness of an event. When in doubt, though, the hipster will rule out all events that do not include enough details for the judge the hipness of the event.
+						<ul>
+							<li>Their website was written many (that is, five) years ago, and it doesn't incorporate all the latest features available through CSS.</li>
+							<li>The code is not commented well, and it was written by a contract web development company. So no one at the company really understands how it works, and they don't want to invest the time understanding it if they can pay someone else to do it.</li>
+						</ul>
 					</li>
 					<li>
 						<b>Ideal Features</b><br>
@@ -62,9 +70,9 @@
 					<li>
 						<b>Scenarios</b><br>
 						<ol>
-							<li>The fridge is empty, and the hipster needs to know where a food event may be going on.</li>
-							<li>The hipster is planning their evening activities. What's happening, tonight?</li>
-							<li>It's a lazy night, and the hipster doesn't want to drive. What's nearby?</li>
+							<li>They want to expand their markets to Africa, and so they want to support facebook's free basics platform.</li>
+							<li></li>
+							<li></li>
 						</ol>
 					</li>
 				</ol>
