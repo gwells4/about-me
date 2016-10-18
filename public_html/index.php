@@ -9,7 +9,7 @@
 		<!-- Add CSS file -->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 
-		<title>Repository 4: Data Design - Craigslist Events</title>
+		<title>Repository 3: About Me - PWP Milestones</title>
 
 	</head>
 
@@ -17,7 +17,7 @@
 
 		<!-- This is the header -->
 		<header>
-			<h1>Data Design: Craigslist Events</h1>
+			<h1>About Me - PWP Milestones</h1>
 		</header>
 
 		<!-- This is the main page content. -->
