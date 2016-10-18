@@ -55,17 +55,17 @@
 
 				<h2>Persona</h2>
 
-				<img id="picture-workplace-group" src="img/workplace-group.jpg" alt="Picture of a Group of People in the Workplace">
+				<img id="picture-workplace-group" src="img/workplace-group.jpg" alt="Picture of a Group of People in the Workplace">  <!-- Names courtesy of pixabay.com -->
 
 				<ol>
 					<li>
 						<b>Quote</b><br>
-						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> _&nbsp;Jesse&nbsp;Schell<br>
+						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;Jesse&nbsp;Schell<br>  <!-- OK, Rochelle, I know you're not going to like all these non-breaking spaces. What's a better way to do this? -->
 					</li>
 					<li>
 						<b>Description</b><br>
 						<u>Professional:</u> A person in a workplace that needs help with a website.<br>
-						Names: Ben Hadden, Jacqueline Camber, Alferd Zanna, Lyn Peverell, & Josie Smith
+						Names: Ben Hadden, Jacqueline Camber, Alferd Zanna, Lyn Peverell, & Josie Smith  <!-- Names courtesy of nameberry.com -->
 						Age: 20 - 30.<br>
 						Role: Marketing, Sales, or Public Relations.<br>
 						They may be looking for either a full-time employee or freelancer.
