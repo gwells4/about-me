@@ -95,7 +95,7 @@
 
 			</section>
 
-			<!-- Section 2: Use Case -->
+			<!-- Section 5: Use Case -->
 			<section>
 
 				<h2>Use Case</h2>
@@ -106,7 +106,7 @@
 
 			</section>
 
-			<!-- Section 3: User Interaction Flow -->
+			<!-- Section 6: User Interaction Flow -->
 			<section>
 
 				<h2>User Interaction Flow</h2>
@@ -119,7 +119,7 @@
 
 			</section>
 
-			<!-- Section 4: Entities -->
+			<!-- Section 7: Entities -->
 			<section>
 
 				<h2>Data Design</h2>
