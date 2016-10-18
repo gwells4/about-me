@@ -52,25 +52,14 @@
 						<b>Frustrations</b><br>
 						<ul>
 							<li>Their website was written many (that is, five) years ago, and it doesn't incorporate all the latest features available through CSS.</li>
-							<li>The code is not commented well, and it was written by a contract web development company. So no one at the company really understands how it works, and they don't want to invest the time understanding it if they can pay someone else to do it.</li>
-						</ul>
-					</li>
-					<li>
-						<b>Ideal Features</b><br>
-						Prompts for event posters to input detailed information, such as:
-						<ul>
-							<li>Date &amp; Time</li>
-							<li>Venue (Address or GPS)</li>
-							<li>Food? Non/organic? Vegetarian? Allergy-compatible?</li>
-							<li>Entertainment</li>
-							<li>Special Guests</li>
-							<li>Schedule</li>
+							<li>The code was written by a contract web development company, and it is not commented well. So no one at the company really understands how it works, and they don't want to invest the time understanding it if they can pay someone else to do it.</li>
+							<li>They feel like they're losing potential customers everyday.</li>
 						</ul>
 					</li>
 					<li>
 						<b>Scenarios</b><br>
 						<ol>
-							<li>They want to expand their markets to Africa, and so they want to support facebook's free basics platform.</li>
+							<li>They want to expand their market to Africa, and so they want to be compatible with facebook's free basics platform.</li>
 							<li></li>
 							<li></li>
 						</ol>
