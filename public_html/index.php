@@ -32,6 +32,27 @@
 
 			</section>
 
+			<!-- Section 2: Audience -->
+			<section>
+
+				<h2>Audience</h2>
+
+				<p>The audience is primarily potential clients and customers. The secondary audience is my professional peers.</p>
+
+			</section>
+
+			<!-- Section 3: Goal -->
+			<section>
+
+				<h2>Goal</h2>
+
+				<p>The goal of the site is threefold: (1) to showcase my work, (2) provide a place where potential clients and customers can view my work and become familiar with my skills, and (3) provide a means for my professional peers to contact me.</p>
+
+			</section>
+
+			<!-- Section 4: Persona -->
+			<section>
+
 			<!-- Section 1: Persona -->
 			<section>
 
