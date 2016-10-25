@@ -40,7 +40,7 @@ body header {
 
 p::first-letter {
 	font-size: 200%;
-	margin-top: -0.5em;
+	margin-top: 0.5em;
 	float: left;
 	font-weight: bold;
 }
