@@ -17,14 +17,14 @@
 
 		<!-- This is the header -->
 		<header>
-			<h1>About Me - PWP Milestones</h1>
+			<h1 id="page-title">About Me - PWP Milestones</h1>
 		</header>
 
 		<!-- This is the main page content. -->
 		<main>
 
 			<!-- Section 1: Purpose -->
-			<section>
+			<section class="bg-gray">
 
 				<h2>Purpose</h2>
 
@@ -42,7 +42,7 @@
 			</section>
 
 			<!-- Section 3: Goal -->
-			<section>
+			<section class="bg-gray">
 
 				<h3>Goal</h3>
 
