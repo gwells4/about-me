@@ -38,11 +38,12 @@ body header {
 
 }
 
+/*
 body p {
 	initial-letter: 2 2;
 }
+*/
 
-/*
 p::first-letter {
 	font-size: 4em;
 	margin-top: -0.1em;
@@ -50,7 +51,6 @@ p::first-letter {
 	line-height: 2em;
 	font-weight: bold;
 }
-*/
 
 #page-title {
 	text-decoration: underline;
