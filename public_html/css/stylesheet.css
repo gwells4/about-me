@@ -65,6 +65,10 @@ p::first-letter {
 	color: blue;
 }
 
+.speaker {
+	text-align: right;
+}
+
 [ id |= picture ] {
 	alignment: center;
 	border-radius: 10px;

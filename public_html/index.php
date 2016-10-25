@@ -60,7 +60,7 @@
 				<ol>
 					<li>
 						<b>Quote</b><br>
-						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;Jesse&nbsp;Schell<br>  <!-- OK, Rochelle, I know you're not going to like all these non-breaking spaces. What's a better way to do this? -->
+						<i>"The main way to reduce stress in the workplace is by picking the right people."</i> <div class="speaker">_&nbsp;Jesse&nbsp;Schell</div><br>  <!-- OK, Rochelle, I know you're not going to like all these non-breaking spaces. What's a better way to do this? -->
 					</li>
 					<li>
 						<b>Description</b><br>
