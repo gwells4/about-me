@@ -38,7 +38,17 @@ body header {
 
 }
 
+.bg-gray {
+	background-color: gray;
+}
 
+.text-red {
+	color: red;
+}
+
+.text-blue {
+	color: blue;
+}
 
 [ id |= picture ] {
 	alignment: center;
