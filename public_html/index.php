@@ -42,7 +42,7 @@
 			</section>
 
 			<!-- Section 3: Goal -->
-			<section class="bg-gray text-blue">
+			<section id="bg-blue" class="bg-gray text-blue">
 
 				<h3>Goal</h3>
 

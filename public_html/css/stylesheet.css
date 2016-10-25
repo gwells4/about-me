@@ -47,6 +47,10 @@ p::first-letter {
 	text-decoration: underline;
 }
 
+#bg-blue {
+	background-color: lightblue;
+}
+
 .bg-gray {
 	background-color: lightgray;
 }
