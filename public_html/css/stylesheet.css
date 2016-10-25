@@ -46,7 +46,7 @@ body p {
 
 p::first-letter {
 	font-size: 4em;
-	margin-top: -0.1em;
+	margin-top: -0.2em;
 	float: left;
 	font-weight: bold;
 }
