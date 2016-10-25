@@ -24,7 +24,7 @@
 		<main>
 
 			<!-- Section 1: Purpose -->
-			<section class="bg-gray">
+			<section class="bg-gray text-red">
 
 				<h2>Purpose</h2>
 
@@ -42,7 +42,7 @@
 			</section>
 
 			<!-- Section 3: Goal -->
-			<section class="bg-gray">
+			<section class="bg-gray text-blue">
 
 				<h3>Goal</h3>
 
