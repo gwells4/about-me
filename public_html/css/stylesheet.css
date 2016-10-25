@@ -1,6 +1,6 @@
 
 h1 {
-	text-decoration: underline;
+
 
 	/* -webkit-marquee: auto medium infinite alternate normal; */
 /*
@@ -36,6 +36,15 @@ body header {
 	/* marquee-speed: normal; */
 	/* marquee-style: alternate; */
 
+}
+
+p::first-letter {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+#page-title {
+	text-decoration: underline;
 }
 
 .bg-gray {
