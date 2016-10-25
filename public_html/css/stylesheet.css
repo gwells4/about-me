@@ -39,8 +39,8 @@ body header {
 }
 
 p::first-letter {
-	font-size: 200%;
-	margin-top: 0.5em;
+	font-size: 4em;
+	margin-top: -0.1em;
 	float: left;
 	font-weight: bold;
 }
